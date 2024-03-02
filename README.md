@@ -1,2 +1,2 @@
-# packages
- repo for storing my packages
+# README
+ repo used as template and storing my packages
